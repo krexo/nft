@@ -1,7 +1,7 @@
 {
-  "name": "Wool",
-  "description": "Wool can be used to trade agains other items.",
+  "name": "Carrot",
+  "description": "Carrots are used as food.",
   "external_url": "https://google.com",
-  "image": "https://raw.githubusercontent.com/krexo/nft/main/game_items/0.png",
+  "image": "https://raw.githubusercontent.com/krexo/nft/main/game_items/1.png",
   "attributes": []
 }
